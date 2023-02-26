@@ -1,0 +1,15 @@
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/bin/Debug/net7.0/Task68
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/bin/Debug/net7.0/Task68.deps.json
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/bin/Debug/net7.0/Task68.runtimeconfig.json
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/bin/Debug/net7.0/Task68.dll
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/bin/Debug/net7.0/Task68.pdb
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/obj/Debug/net7.0/Task68.csproj.AssemblyReference.cache
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/obj/Debug/net7.0/Task68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/obj/Debug/net7.0/Task68.AssemblyInfoInputs.cache
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/obj/Debug/net7.0/Task68.AssemblyInfo.cs
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/obj/Debug/net7.0/Task68.csproj.CoreCompileInputs.cache
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/obj/Debug/net7.0/Task68.dll
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/obj/Debug/net7.0/refint/Task68.dll
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/obj/Debug/net7.0/Task68.pdb
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/obj/Debug/net7.0/Task68.genruntimeconfig.cache
+/Users/igormincenko/Documents/StudyGeekBrains/CSharp/Lesson9/Task68/obj/Debug/net7.0/ref/Task68.dll
